@@ -1,1 +1,4 @@
-# Design a simple model, make, launch and have fun.
+## 1. Design a simple model
+## 2. make
+## 3. launch
+# have fun
